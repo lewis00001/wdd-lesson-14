@@ -6,7 +6,7 @@
             "time": "5:00 pm – 9:00 pm",
             "location": "Springville Civic Center",
             "address": "110 South Main Street",
-            "age-group": "All Ages"
+            "ageGroup": "All Ages"
         },
         {
             "event": "Teen Smash Bros Brawl",
@@ -14,7 +14,7 @@
             "time": "3:00 pm – 4:00 pm",
             "location": "Springville Public Library",
             "address": "45 S Main St",
-            "age-group": "Teens"
+            "ageGroup": "Teens"
         },
         {
             "event": "Planning Commission",
@@ -22,7 +22,7 @@
             "time": "7:00 pm",
             "location": "Springville Civic Center",
             "address": "110 South Main Street",
-            "age-group": "Adults"
+            "ageGroup": "Adults"
         },
         {
             "event": "Nebo Novelists",
@@ -30,7 +30,7 @@
             "time": "6:30 pm – 8:00 pm",
             "location": "Springville Public Library",
             "address": "45 S Main St",
-            "age-group": "Adults"
+            "ageGroup": "Adults"
         },
         {
             "event": "Tween Night Fossil Dig",
@@ -38,7 +38,7 @@
             "time": "7:00 pm – 8:00 pm",
             "location": "Springville Public Library",
             "address": "45 S Main St",
-            "age-group": "Tweens"
+            "ageGroup": "Tweens"
         }
     ]
 }
