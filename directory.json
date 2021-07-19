@@ -1,0 +1,68 @@
+{
+    "biz": [
+        {
+            "logo": "./images/asphalt.png",
+            "name": "Utah Asphalt Company",
+            "address": "2140 W 700 S",
+            "phone": "(801) 404-2921",
+            "email": "support@utahasphaltcompany.com",
+            "url": "https://utahasphaltcompany.com/"
+        },
+        {
+            "logo": "./images/namify.png",
+            "name": "Namify, LLC",
+            "address": "280 West 900 North",
+            "phone": "(866) 460-7889",
+            "email": "orders@namify.com",
+            "url": "https://namify.com/"
+        },
+        {
+            "logo": "./images/dental.png",
+            "name": "Hobble Creek Dental Care",
+            "address": "143 E. 200 S.",
+            "phone": "(801) 489-4541",
+            "email": "admin@hobblecreekdentalcare.com",
+            "url": "https://www.hobblecreekdentalcare.com/"
+        },
+        {
+            "logo": "./images/trueleaf.png",
+            "name": "True Leaf, LLC",
+            "address": "1-41 N 450 W",
+            "phone": "(801) 491-8700",
+            "email": "support@trueleafmarket.com",
+            "url": "https://www.trueleafmarket.com/"
+        },
+        {
+            "logo": "./images/blowtwin.png",
+            "name": "Blowtwin Containers",
+            "address": "1039 South 1680 West",
+            "phone": "(801) 310-5764",
+            "email": "info@blowtwincontainers.com",
+            "url": "https://www.blowtwincontainers.com/"
+        },
+        {
+            "logo": "./images/signature.png",
+            "name": "Signature Marble and Granite",
+            "address": "362 West 700 South",
+            "phone": "(801) 473-6787",
+            "email": "sales@signaturemarbleandgranite.com/",
+            "url": "https://signaturemarbleandgranite.com/"
+        },
+        {
+            "logo": "./images/gavel.png",
+            "name": "The Gavel Store",
+            "address": "321 West 900 North",
+            "phone": "(801) 367-1327",
+            "email": "dave@gavelstore.com",
+            "url": "http://www.gavelstore.com/"
+        },
+        {
+            "logo": "./images/paving.png",
+            "name": "Sumsion Construction LC",
+            "address": "340 S 1600 W",
+            "phone": "(801) 489-1114",
+            "email": "info@ecklespaving.com",
+            "url": "https://utahasphalt.com/"
+        }
+    ]
+}
