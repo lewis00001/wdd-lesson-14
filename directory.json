@@ -6,7 +6,7 @@
             "address": "2140 W 700 S",
             "phone": "(801) 404-2921",
             "email": "support@utahasphaltco.com",
-            "url": "utahasphaltcompany.com/"
+            "url": "utahasphaltcompany.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/namify.png",
@@ -14,7 +14,7 @@
             "address": "280 West 900 North",
             "phone": "(866) 460-7889",
             "email": "orders@namify.com",
-            "url": "namify.com/"
+            "url": "namify.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/dental.png",
@@ -22,7 +22,7 @@
             "address": "143 E. 200 S.",
             "phone": "(801) 489-4541",
             "email": "admin@hobblecreekdental.com",
-            "url": "hobblecreekdentalcare.com/"
+            "url": "hobblecreekdentalcare.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/trueleaf.png",
@@ -30,7 +30,7 @@
             "address": "1-41 N 450 W",
             "phone": "(801) 491-8700",
             "email": "support@trueleafmarket.com",
-            "url": "trueleafmarket.com/"
+            "url": "trueleafmarket.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/blowtwin.png",
@@ -38,7 +38,7 @@
             "address": "1039 South 1680 West",
             "phone": "(801) 310-5764",
             "email": "info@blowtwincontainers.com",
-            "url": "blowtwincontainers.com/"
+            "url": "blowtwincontainers.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/signature.png",
@@ -46,7 +46,7 @@
             "address": "362 West 700 South",
             "phone": "(801) 473-6787",
             "email": "sales@signature-mg.com/",
-            "url": "signaturemarbleandgranite.com/"
+            "url": "signaturemarbleandgranite.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/gavel.png",
@@ -54,7 +54,7 @@
             "address": "321 West 900 North",
             "phone": "(801) 367-1327",
             "email": "dave@gavelstore.com",
-            "url": "gavelstore.com/"
+            "url": "gavelstore.com"
         },
         {
             "logo": "https://lewis00001.github.io/wdd-lesson-14/images/paving.png",
@@ -62,7 +62,7 @@
             "address": "340 S 1600 W",
             "phone": "(801) 489-1114",
             "email": "info@ecklespaving.com",
-            "url": "utahasphalt.com/"
+            "url": "utahasphalt.com"
         }
     ]
 }
